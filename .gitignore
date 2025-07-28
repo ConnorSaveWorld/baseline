@@ -3,8 +3,14 @@
 
 # … except Python source files and this gitignore itself
 !*.py
+!*.jspn
 !.gitignore
 
 # Still ignore compiled artefacts and caches
 *.pyc
 __pycache__/
+!rh_bottleneck/
+!rh_bottleneck/**
+
+!baseGNN/
+!baseGNN/**
