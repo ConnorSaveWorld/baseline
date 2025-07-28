@@ -1,0 +1,10 @@
+# Ignore everything …
+*
+
+# … except Python source files and this gitignore itself
+!*.py
+!.gitignore
+
+# Still ignore compiled artefacts and caches
+*.pyc
+__pycache__/
