@@ -3,7 +3,7 @@
 
 # … except Python source files and this gitignore itself
 !*.py
-!*.jspn
+!*.json
 !.gitignore
 
 # Still ignore compiled artefacts and caches
